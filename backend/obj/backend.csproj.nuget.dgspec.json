@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/renan/Projetos2/teste3/backend/backend.csproj": {}
+    "C:\\Users\\ricksant\\Documents\\FATEC\\Projeto-Lobby\\backend\\backend.csproj": {}
   },
   "projects": {
-    "/home/renan/Projetos2/teste3/backend/backend.csproj": {
+    "C:\\Users\\ricksant\\Documents\\FATEC\\Projeto-Lobby\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/renan/Projetos2/teste3/backend/backend.csproj",
+        "projectUniqueName": "C:\\Users\\ricksant\\Documents\\FATEC\\Projeto-Lobby\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "/home/renan/Projetos2/teste3/backend/backend.csproj",
-        "packagesPath": "/home/renan/.nuget/packages/",
-        "outputPath": "/home/renan/Projetos2/teste3/backend/obj/",
+        "projectPath": "C:\\Users\\ricksant\\Documents\\FATEC\\Projeto-Lobby\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\ricksant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricksant\\Documents\\FATEC\\Projeto-Lobby\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/renan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ricksant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
