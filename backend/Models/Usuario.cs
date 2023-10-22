@@ -20,7 +20,6 @@ namespace UsuarioAPI.Models
         [Column(TypeName ="nvarchar(30)")]
         public string senha { get; set; } = "";
 
-        public bool ADM { get; set; }
         public int telefone { get; set; }
 
     }
